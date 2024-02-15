@@ -1,0 +1,234 @@
+#reservationId {
+  font-size: 30px;
+  margin-left: 20px;
+  float: left;
+}
+/* reservation 전체 div */
+.reservationDiv {
+  margin-left: 280px;
+}
+
+/* reservationCheck 전체 div */
+
+.reservationCheckDiv {
+  margin-left: 280px;
+}
+
+/* reservationCheckSection1 */
+
+.reservationCheckSection1 {
+  width: 38%;
+  height: 200px;
+  margin-left: 50px;
+  margin-top: 100px;
+}
+
+/* 돌아가기 div */
+.comebackDiv {
+  margin-top: 100px;
+  margin-left:-20px;
+}
+
+/*돌아가기 버튼*/
+.comebackButton {
+  margin-left: 20px;
+  border: none;
+  cursor: pointer;
+  background-color: white;
+}
+
+/*예약 섹션1*/
+.reservationSection1 {
+  width: 38%;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+/*예약 섹션2*/
+.reservationSection2 {
+  margin-left: 600px;
+  width: 50%;
+  margin-top: -200px;
+}
+
+/*예약 섹션3*/
+.reservationSection3 {
+  margin-top: -150px;
+}
+
+/* 예약 버튼 */
+#reservationButton {
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+/*예약확인 버튼*/
+#checkButton {
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+/* 예약및 결제 h1 */
+#reservationId {
+}
+
+/* 결제수단 선택 h1 */
+
+.selectPayment {
+  margin-top: 40px;
+  margin-left: 18px;
+}
+
+/*결제 수단 버튼*/
+#payButton {
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  border: 2px solid rgb(221, 218, 218);
+  border-radius: 12px;
+  margin-left: 20px;
+}
+
+/*커버이미지*/
+.CoverImage {
+  margin-right: 30px;
+  width: 500px;
+  height: 300px;
+}
+
+/* 메인으로 돌아가기 이미지 */
+.backSpaceImage {
+  width: 50px;
+  height: 50px;
+}
+
+/* 결제선택버튼 */
+.buttonBox {
+  margin-top: 10px;
+}
+
+/* 고객센터 버튼 */
+#serviceCenterButton {
+  background-color: white;
+  margin-top: 30px;
+  margin-left: 20px;
+  border: none;
+}
+
+/* 카카오 상담 */
+#kakaoQuestionButton {
+  background-color: white;
+  margin-top: 30px;
+  margin-left: 20px;
+  border: none;
+}
+
+/* 카카오페이 */
+#kakaoPay {
+  width: 50px;
+  height: 50px;
+}
+
+/* 네이버페이 */
+#naverPay {
+  width: 50px;
+  height: 50px;
+}
+
+/* 페이코페이 */
+#paycoPay {
+  width: 50px;
+  height: 50px;
+}
+
+/* kb 페이 */
+#kbPay {
+  width: 50px;
+  height: 50px;
+}
+
+/* 카카오 상담 이미지 */
+#kakaoQuestion {
+  width: 50px;
+  height: 50px;
+}
+
+/* 페이체크박스 */
+.payCheckBox {
+  margin-top: -30px;
+  margin-left: 20px;
+}
+
+/* 결제 모달 */
+.Modal {
+  border-radius: 20px;
+  width: 700px;
+  height: 700px;
+  background-color: #f8f8f8;
+  position: fixed;
+  top: 20%;
+  left: 30%;
+}
+
+/* 결제 카드 이미지 */
+#cardImage {
+  margin-left: 10px;
+  width: 60px;
+  height: 40px;
+}
+
+/* 모달 창 div  */
+.modalDiv {
+  width: 600px;
+  height: 600px;
+}
+
+/* 모달 결제하기 버튼 */
+#modalPayButton {
+  padding: 20px;
+  background-color: rgb(69, 56, 250);
+  color: white;
+  border-radius: 10px;
+  border: none;
+  margin-left: 140px;
+  margin-top: 450px;
+}
+
+/* 모달 취소하기 버튼 */
+#modalCancleButton {
+  padding: 20px;
+  background-color: rgb(69, 56, 250);
+  color: white;
+  border-radius: 10px;
+  border: none;
+  margin-left: 20px;
+}
+/* 모달 이용약관 */
+.modalTerms {
+  position: fixed;
+  margin-left: 10px;
+}
+
+/* 체크타임 div */
+.checkTimeDiv {
+  border: 2px solid rgb(231, 231, 231);
+  border-radius: 10px;
+}
+
+/* 체크타임 박스 */
+.checkTimeBox {
+  margin-left: 20px;
+}
+
+/* reservationCoverImage */
+.reservationCoverImage{
+  margin-left:100px;
+  
+}
+
+li {
+  list-style-type: none;
+}

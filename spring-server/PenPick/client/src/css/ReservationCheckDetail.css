@@ -1,0 +1,16 @@
+.detailReservation {
+    border:1px solid rgb(232, 231, 231);
+    border-radius:10px;
+    padding-left:20px;
+    margin-left:250px;
+    padding-top:10px;
+    width:800px;
+    height:300px;;
+    position:fixed;
+}
+
+#deleteReservation {
+    padding:5px;
+    margin-top:5px;
+
+}
